@@ -10,3 +10,4 @@ scipy
 openpyxl
 seaborn
 folium
+streamlit_folium
